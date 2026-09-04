@@ -21,7 +21,8 @@ and you have a finished site.
 
 > **Everything you see is a placeholder.** The photos are generated gradients,
 > the name is "Your Name", and the two blog posts are examples. The steps below
-> walk you through making it your own.
+> walk you through making it your own. Also, check this template in production https://xdqin.com/,
+> how to deploy the site on cloudflare https://xdqin.com/blog/tech/building-and-deploying-xdqin-com-on-cloudflare/ 
 
 ---
 
